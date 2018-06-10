@@ -45,7 +45,7 @@ h2 {
 /* Header & Footer
 ------------------------------------*/
 header, footer {
-    background: #2B2D42;
+    background: radial-gradient(circle, #2B2D42, #8D99AE);
     color: #8D99AE;
 }
 
@@ -83,7 +83,7 @@ footer {
 /* Education
 ------------------------------------*/
 .education {
-    background: #8D99AE;
+    background: radial-gradient(circle, #8D99AE, #2B2D42);
 }
 
 
